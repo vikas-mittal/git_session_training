@@ -1,3 +1,3 @@
-print("vikas")
+#print("vikas")
 print("abc")
 print("mittal")
